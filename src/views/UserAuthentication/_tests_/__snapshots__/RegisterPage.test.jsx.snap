@@ -1,0 +1,482 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` RegisterPage Tests  Register page rendering components rendered properly <RegisterPage /> Snapshot 1`] = `
+<div
+  className="RegisterPage-container-1"
+>
+  <div
+    className="MuiGrid-typeContainer-38 MuiGrid-spacing-xs-16-60 MuiGrid-justify-xs-center-55 GridContainer-grid-37 undefined"
+  >
+    <div
+      className="MuiGrid-typeItem-39 MuiGrid-grid-xs-12-75 MuiGrid-grid-sm-12-88 MuiGrid-grid-md-10-99 ItemGrid-grid-128 undefined"
+    >
+      <div
+        className="MuiPaper-root-138 MuiPaper-shadow2-142 MuiPaper-rounded-139 RegularCard-card-129 RegisterPage-cardClasses-2"
+      >
+        <div
+          className="MuiCardHeader-root-165 RegularCard-cardHeader-131"
+        >
+          <div
+            className="MuiCardHeader-content-168"
+          >
+            <span
+              className="MuiTypography-root-171 MuiTypography-headline-176 MuiCardHeader-title-169 RegularCard-cardTitle-132 RegularCard-center-135 RegisterPage-cardTitle-36"
+            >
+              Register
+            </span>
+          </div>
+        </div>
+        <div
+          className="MuiCardContent-root-195 RegularCard-cardContent-137 undefined"
+        >
+          <div
+            className="MuiGrid-typeContainer-38 MuiGrid-spacing-xs-16-60 MuiGrid-justify-xs-center-55 GridContainer-grid-37 undefined"
+          >
+            <div
+              className="MuiGrid-typeItem-39 MuiGrid-grid-xs-12-75 MuiGrid-grid-sm-12-88 MuiGrid-grid-md-5-94 ItemGrid-grid-128 undefined"
+            >
+              <div
+                className="InfoArea-infoArea-196"
+              >
+                <div
+                  className="InfoArea-iconWrapper-197 InfoArea-rose-203"
+                >
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root-209 InfoArea-icon-205"
+                    color={undefined}
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M23 8c0 1.1-.9 2-2 2-.18 0-.35-.02-.51-.07l-3.56 3.55c.05.16.07.34.07.52 0 1.1-.9 2-2 2s-2-.9-2-2c0-.18.02-.36.07-.52l-2.55-2.55c-.16.05-.34.07-.52.07s-.36-.02-.52-.07l-4.55 4.56c.05.16.07.33.07.51 0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2c.18 0 .35.02.51.07l4.56-4.55C8.02 9.36 8 9.18 8 9c0-1.1.9-2 2-2s2 .9 2 2c0 .18-.02.36-.07.52l2.55 2.55c.16-.05.34-.07.52-.07s.36.02.52.07l3.55-3.56C19.02 8.35 19 8.18 19 8c0-1.1.9-2 2-2s2 .9 2 2z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  className="InfoArea-descriptionWrapper-206"
+                >
+                  <h4
+                    className="InfoArea-title-207"
+                  >
+                    Marketing
+                  </h4>
+                  <p
+                    className="InfoArea-description-208"
+                  >
+                    We've created the marketing campaign of the website. It was a very interesting collaboration.
+                  </p>
+                </div>
+              </div>
+              <div
+                className="InfoArea-infoArea-196"
+              >
+                <div
+                  className="InfoArea-iconWrapper-197 InfoArea-primary-198"
+                >
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root-209 InfoArea-icon-205"
+                    color={undefined}
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  className="InfoArea-descriptionWrapper-206"
+                >
+                  <h4
+                    className="InfoArea-title-207"
+                  >
+                    Fully Coded in HTML5
+                  </h4>
+                  <p
+                    className="InfoArea-description-208"
+                  >
+                    We've developed the website with HTML5 and CSS3. The client has access to the code using GitHub.
+                  </p>
+                </div>
+              </div>
+              <div
+                className="InfoArea-infoArea-196"
+              >
+                <div
+                  className="InfoArea-iconWrapper-197 InfoArea-info-202"
+                >
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root-209 InfoArea-icon-205"
+                    color={undefined}
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  className="InfoArea-descriptionWrapper-206"
+                >
+                  <h4
+                    className="InfoArea-title-207"
+                  >
+                    Built Audience
+                  </h4>
+                  <p
+                    className="InfoArea-description-208"
+                  >
+                    There is also a Fully Customizable CMS Admin Dashboard for this product.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-typeItem-39 MuiGrid-grid-xs-12-75 MuiGrid-grid-sm-8-84 MuiGrid-grid-md-5-94 ItemGrid-grid-128 undefined"
+            >
+              <div
+                className="RegisterPage-center-3"
+              >
+                <button
+                  className="MuiButtonBase-root-260 MuiIconButton-root-254 IconCustomButton-button-216 IconCustomButton-twitter-232"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="button"
+                >
+                  <span
+                    className="MuiIconButton-label-259"
+                  >
+                    <i
+                      className="fab fa-twitter"
+                    />
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root-262"
+                  />
+                </button>
+                 
+                <button
+                  className="MuiButtonBase-root-260 MuiIconButton-root-254 IconCustomButton-button-216 IconCustomButton-dribbble-250"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="button"
+                >
+                  <span
+                    className="MuiIconButton-label-259"
+                  >
+                    <i
+                      className="fab fa-dribbble"
+                    />
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root-262"
+                  />
+                </button>
+                 
+                <button
+                  className="MuiButtonBase-root-260 MuiIconButton-root-254 IconCustomButton-button-216 IconCustomButton-facebook-234"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="button"
+                >
+                  <span
+                    className="MuiIconButton-label-259"
+                  >
+                    <i
+                      className="fab fa-facebook-f"
+                    />
+                  </span>
+                  <span
+                    className="MuiTouchRipple-root-262"
+                  />
+                </button>
+                 
+                <h4
+                  className="RegisterPage-socialTitle-7"
+                >
+                  or be classical
+                </h4>
+              </div>
+              <form
+                className="RegisterPage-form-6"
+              >
+                <div
+                  aria-describedby="undefined-text"
+                  className="MuiFormControl-root-286 MuiFormControl-fullWidth-289 CustomInput-formControl-283 RegisterPage-customFormControlClasses-10 CustomInput-inputWithAdornment-282"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    className="MuiInput-root-290 MuiInput-formControl-291 MuiInput-inkbar-292 CustomInput-inkbar-271 MuiInput-underline-296 CustomInput-underline-270"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                  >
+                    <div
+                      className="MuiInputAdornment-root-305 MuiInputAdornment-positionStart-306 RegisterPage-inputAdornment-8"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-209 RegisterPage-inputAdornmentIcon-9"
+                        color={undefined}
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                        />
+                      </svg>
+                    </div>
+                    <input
+                      aria-invalid={false}
+                      aria-required={false}
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="MuiInput-input-299 CustomInput-input-279 CustomInput-inputNoLabel-280"
+                      defaultValue={undefined}
+                      disabled={false}
+                      id={undefined}
+                      name={undefined}
+                      onChange={[Function]}
+                      onKeyDown={undefined}
+                      onKeyUp={undefined}
+                      placeholder="First Name..."
+                      readOnly={undefined}
+                      required={undefined}
+                      rows={undefined}
+                      type="text"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-describedby="undefined-text"
+                  className="MuiFormControl-root-286 MuiFormControl-fullWidth-289 CustomInput-formControl-283 RegisterPage-customFormControlClasses-10 CustomInput-inputWithAdornment-282"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    className="MuiInput-root-290 MuiInput-formControl-291 MuiInput-inkbar-292 CustomInput-inkbar-271 MuiInput-underline-296 CustomInput-underline-270"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                  >
+                    <div
+                      className="MuiInputAdornment-root-305 MuiInputAdornment-positionStart-306 RegisterPage-inputAdornment-8"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-209 RegisterPage-inputAdornmentIcon-9"
+                        color={undefined}
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"
+                        />
+                      </svg>
+                    </div>
+                    <input
+                      aria-invalid={false}
+                      aria-required={false}
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="MuiInput-input-299 CustomInput-input-279 CustomInput-inputNoLabel-280"
+                      defaultValue={undefined}
+                      disabled={false}
+                      id={undefined}
+                      name={undefined}
+                      onChange={[Function]}
+                      onKeyDown={undefined}
+                      onKeyUp={undefined}
+                      placeholder="Email..."
+                      readOnly={undefined}
+                      required={undefined}
+                      rows={undefined}
+                      type="text"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-describedby="undefined-text"
+                  className="MuiFormControl-root-286 MuiFormControl-fullWidth-289 CustomInput-formControl-283 RegisterPage-customFormControlClasses-10 CustomInput-inputWithAdornment-282"
+                  onBlur={[Function]}
+                  onFocus={[Function]}
+                >
+                  <div
+                    className="MuiInput-root-290 MuiInput-formControl-291 MuiInput-inkbar-292 CustomInput-inkbar-271 MuiInput-underline-296 CustomInput-underline-270"
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                  >
+                    <div
+                      className="MuiInputAdornment-root-305 MuiInputAdornment-positionStart-306 RegisterPage-inputAdornment-8"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-209 RegisterPage-inputAdornmentIcon-9"
+                        color={undefined}
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zM8.9 6c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2H8.9V6zM18 20H6V10h12v10z"
+                        />
+                      </svg>
+                    </div>
+                    <input
+                      aria-invalid={false}
+                      aria-required={false}
+                      autoComplete={undefined}
+                      autoFocus={undefined}
+                      className="MuiInput-input-299 CustomInput-input-279 CustomInput-inputNoLabel-280"
+                      defaultValue={undefined}
+                      disabled={false}
+                      id={undefined}
+                      name={undefined}
+                      onChange={[Function]}
+                      onKeyDown={undefined}
+                      onKeyUp={undefined}
+                      placeholder="Password..."
+                      readOnly={undefined}
+                      required={undefined}
+                      rows={undefined}
+                      type="text"
+                      value={undefined}
+                    />
+                  </div>
+                </div>
+                <label
+                  className="MuiFormControlLabel-root-308 RegisterPage-checkboxLabelControl-11"
+                >
+                  <span
+                    className="MuiButtonBase-root-260 MuiIconButton-root-254 MuiSwitchBase-root-316 MuiSwitchBase-default-318 MuiCheckbox-default-311"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    role={undefined}
+                    tabIndex={null}
+                  >
+                    <span
+                      className="MuiIconButton-label-259"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root-209 MuiSvgIcon-fontSize-215 RegisterPage-uncheckedIcon-17"
+                        color={undefined}
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"
+                        />
+                      </svg>
+                      <input
+                        checked={undefined}
+                        className="MuiSwitchBase-input-317"
+                        disabled={undefined}
+                        id={undefined}
+                        name={undefined}
+                        onChange={[Function]}
+                        tabIndex={-1}
+                        type="checkbox"
+                        value={undefined}
+                      />
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-262"
+                    />
+                  </span>
+                  <span
+                    className="MuiTypography-root-171 MuiTypography-body1-180 MuiFormControlLabel-label-310 RegisterPage-checkboxLabel-12"
+                  >
+                    <span>
+                      I agree to the
+                       
+                      <a
+                        href="#pablo"
+                      >
+                        terms and conditions
+                      </a>
+                      .
+                    </span>
+                  </span>
+                </label>
+                <div
+                  className="RegisterPage-center-3"
+                >
+                  <button
+                    className="MuiButtonBase-root-260 MuiButton-root-369 RegularButton-button-321 RegularButton-primary-323 RegularButton-round-339"
+                    disabled={false}
+                    onBlur={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={0}
+                    type="button"
+                  >
+                    <span
+                      className="MuiButton-label-370"
+                    >
+                      Get started
+                    </span>
+                    <span
+                      className="MuiTouchRipple-root-262"
+                    />
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
